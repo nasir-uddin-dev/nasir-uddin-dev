@@ -31,7 +31,7 @@ I enjoy exploring new technologies and turning ideas into code that works beauti
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=nasir-uddin-dev&theme=radical)](https://git.io/streak-stats)
 ### 🏆 Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nasir-uddin-dev&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
