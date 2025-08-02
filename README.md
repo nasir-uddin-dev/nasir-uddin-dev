@@ -28,7 +28,6 @@ I enjoy exploring new technologies and turning ideas into code that works beauti
 
 ### 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=nasir-uddin-dev&theme=radical)](https://git.io/streak-stats)
