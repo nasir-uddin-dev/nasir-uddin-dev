@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Nasir Uddin
 #### I am GitHub Readme Generator's creator
 
 
