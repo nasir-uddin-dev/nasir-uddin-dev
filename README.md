@@ -10,8 +10,7 @@ I enjoy exploring new technologies and turning ideas into code that works beauti
 ### 🚀 About Me
 - 🔭 I’m currently working on mobile app development using **Flutter**
 - 🌱 Learning: `Flutter`, `Dart`, `Firebase`, `API Integration`
-- 💬 Ask me about anything related to `Flutter`, `Git`, or `Frontend Development`
-- 😄 Fun fact: I built a **GitHub Readme Generator** just for fun!
+- 💬 Ask me about anything related to `Flutter`, `Git`
 - 📫 Reach me: nasiruddindev@gmail.com
 
 ---
@@ -20,7 +19,9 @@ I enjoy exploring new technologies and turning ideas into code that works beauti
 
 **Languages & Tools:**
 
-
+- C / C++
+- Data Structure
+- Algorithm
 - 📱 Flutter | Dart *(learning now)*
 
 
