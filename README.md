@@ -87,12 +87,12 @@
 
 ## 🤝 LET'S CONNECT
 
-[![Email](https://img.shields.io/badge/EMAIL-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasiruddin3954@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](gmailto:nasiruddin3954@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasir-uddin-874b5024a/)
-[![GitHub](https://img.shields.io/badge/GITHUB-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NasirUddin)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/NasirUddin)
-[![Codeforces](https://img.shields.io/badge/CODEFORCES-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/NasirUddin)
-[![CodeChef](https://img.shields.io/badge/CODECHEF-%235B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/NasirUddin)
+[![GitHub](https://img.shields.io/badge/GITHUB-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasir-uddin-dev)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/](https://leetcode.com/u/NWdHUOcLDp/))
+[![Codeforces](https://img.shields.io/badge/CODEFORCES-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)]([https://codeforces.com/profile/NasirUddin](https://codeforces.com/profile/nasiruddin3954))
+[![CodeChef](https://img.shields.io/badge/CODECHEF-%235B4638?style=for-the-badge&logo=codechef&logoColor=white)]([https://codechef.com/users/NasirUddin](https://www.codechef.com/users/nasir_uddin_25))
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
